@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T03:39:58.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XU3X401QkZFqIttvblZF" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T03:44:58.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gANkCE79RUyiJRNW2KtK" version="24.2.3" type="github">
   <diagram name="ページ1" id="zyaqjzO2vB091Qvb2U0g">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,20 @@
           <mxGeometry x="420" y="220" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-3" value="NotifyPointOfSale" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="180" width="120" height="430" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x2XnxNrp0TIbco7YVAFj-4" target="x2XnxNrp0TIbco7YVAFj-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2XnxNrp0TIbco7YVAFj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x2XnxNrp0TIbco7YVAFj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="40" as="targetPoint" />
+            <mxPoint x="240" y="250.0000000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="270" y="250" />
+              <mxPoint x="270" y="203" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-4" value="inputs.sClearSale" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="235" width="100" height="30" as="geometry" />
@@ -119,6 +129,18 @@
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-32" value="inputs.sNozzle3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="565" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x2XnxNrp0TIbco7YVAFj-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2XnxNrp0TIbco7YVAFj-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="650" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2XnxNrp0TIbco7YVAFj-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.01;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x2XnxNrp0TIbco7YVAFj-2" target="x2XnxNrp0TIbco7YVAFj-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
