@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T00:56:28.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LRK_RQC2am-JWGdMmhZi" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T00:58:11.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ks4IWGPDic5ch9-9hdMt" version="24.2.3" type="github">
   <diagram name="ページ1" id="0j9BvPOVyv1glCGRfYG_">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="750" y="60" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M7j4h07cG0Kve68zO_rH-16" value="sSaleComplete" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="767" y="140" width="83" height="30" as="geometry" />
+          <mxGeometry x="750" y="140" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M7j4h07cG0Kve68zO_rH-17" value="sStart" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="30" width="60" height="30" as="geometry" />
