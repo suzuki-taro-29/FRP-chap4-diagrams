@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T00:04:29.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3xnnM2bjw-BdVb0CK_Ut" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T00:06:44.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NcYx8mmVET5HkCKkRDyf" version="24.2.3" type="github">
   <diagram name="ページ1" id="zyaqjzO2vB091Qvb2U0g">
-    <mxGraphModel dx="1134" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,13 +156,13 @@
           <mxGeometry x="1005" y="90" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-46" value="setPriceLCD1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1005" width="80" height="30" as="geometry" />
+          <mxGeometry x="1005" y="-60" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-47" value="setPriceLCD2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="30" width="80" height="30" as="geometry" />
+          <mxGeometry x="1005" y="-25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-48" value="setPriceLCD3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="40" width="80" height="30" as="geometry" />
+          <mxGeometry x="1005" y="10" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-49" value="setBeep" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1005" y="380" width="50" height="30" as="geometry" />
@@ -171,7 +171,7 @@
           <mxGeometry x="1012.5" y="490" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-52" value="ShowDollarsPump.priceLCD" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" parent="1" vertex="1">
-          <mxGeometry x="850" width="100" height="60" as="geometry" />
+          <mxGeometry x="850" y="-80" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="x2XnxNrp0TIbco7YVAFj-54" edge="1">
           <mxGeometry relative="1" as="geometry">
