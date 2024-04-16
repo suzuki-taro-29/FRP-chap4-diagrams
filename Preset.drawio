@@ -76,14 +76,8 @@
                 <mxCell id="31" value="lift" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="1290" y="552" width="200" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="33" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="800" y="640" as="sourcePoint"/>
-                        <mxPoint x="1000" y="632" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="33" value="Fill" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-                    <mxGeometry x="1000" y="560" width="120" height="160" as="geometry"/>
+                    <mxGeometry x="800" y="560" width="120" height="160" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" style="jumpStyle=arc;html=1;elbow=vertical;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="33" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -129,7 +123,7 @@
                         <mxPoint x="-10" y="-10" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="42" style="jumpStyle=arc;html=1;elbow=vertical;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" edge="1">
+                <mxCell id="42" style="jumpStyle=arc;html=1;elbow=vertical;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" edge="1" source="33">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1200" y="640" as="targetPoint"/>
                         <mxPoint x="1120" y="680" as="sourcePoint"/>
