@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T04:08:55.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="u0oAp_F1xZy8Wd7fXobH" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T00:11:28.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wx4yW1WybYdBKubf-Vq2" version="24.2.5" type="github">
   <diagram name="ページ1" id="zyaqjzO2vB091Qvb2U0g">
-    <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aRWXBPi2o7gz7t2TYzYU-1" value="Output" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="-80" width="170" height="680" as="geometry" />
+        </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-2" value="Fill" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="420" y="220" width="120" height="240" as="geometry" />
         </mxCell>
@@ -155,29 +158,20 @@
             <mxPoint x="570" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x2XnxNrp0TIbco7YVAFj-42" value="setDelivery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="180" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-43" value="setSaleCostLCD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1002.5" y="130" width="90" height="30" as="geometry" />
+          <mxGeometry x="1165" y="140" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-44" value="setSaleQuantityLCD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="80" width="110" height="30" as="geometry" />
+          <mxGeometry x="1165" y="90" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-46" value="setPriceLCD1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="-70" width="80" height="30" as="geometry" />
+          <mxGeometry x="1161" y="-55" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-47" value="setPriceLCD2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="-30" width="80" height="30" as="geometry" />
+          <mxGeometry x="1161" y="-25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-48" value="setPriceLCD3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1005" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x2XnxNrp0TIbco7YVAFj-49" value="setBeep" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="370" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x2XnxNrp0TIbco7YVAFj-50" value="setSaleComplete" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="997.5" y="475" width="95" height="30" as="geometry" />
+          <mxGeometry x="1165" y="10" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2XnxNrp0TIbco7YVAFj-52" value="ShowDollarsPump.priceLCD" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="850" y="-80" width="100" height="140" as="geometry" />
@@ -395,8 +389,14 @@
             <mxPoint x="600" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aRWXBPi2o7gz7t2TYzYU-1" value="Output" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="-80" width="170" height="680" as="geometry" />
+        <mxCell id="x2XnxNrp0TIbco7YVAFj-49" value="setBeep" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="380" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x2XnxNrp0TIbco7YVAFj-50" value="setSaleComplete" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1165" y="490" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x2XnxNrp0TIbco7YVAFj-42" value="setDelivery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1165" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
