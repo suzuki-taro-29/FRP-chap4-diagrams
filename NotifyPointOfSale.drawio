@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T00:14:43.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eWN1zB7oP79NX2ALchYk" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T00:14:57.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OyaAO-AzoKFIJLkUYXKy" version="24.2.5" type="github">
   <diagram name="ページ1" id="0j9BvPOVyv1glCGRfYG_">
     <mxGraphModel dx="1059" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,9 +157,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fvebulx2OxIcinfAuc56-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.831;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="M7j4h07cG0Kve68zO_rH-5" target="M7j4h07cG0Kve68zO_rH-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2jiP9YLAJ7HxwZIrhcd--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvebulx2OxIcinfAuc56-28" target="fvebulx2OxIcinfAuc56-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fvebulx2OxIcinfAuc56-28" value="fuelFlowing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
