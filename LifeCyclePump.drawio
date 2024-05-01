@@ -1,12 +1,9 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="nF9Hn8oPBfjeOkLX0iGz">
-        <mxGraphModel dx="1472" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1260" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="Inputs" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-                    <mxGeometry x="350" y="473.05" width="120" height="160" as="geometry"/>
-                </mxCell>
                 <mxCell id="3" value="LifeCycle" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
                     <mxGeometry x="670" y="473.05" width="120" height="160" as="geometry"/>
                 </mxCell>
@@ -83,9 +80,6 @@
                 <mxCell id="29" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5212765957446809;rotation=-90;horizontal=0;labelPosition=left;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1019.07" y="544" width="36.25" height="91.87" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="Outputs" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-                    <mxGeometry x="1280" y="473.05" width="120" height="160" as="geometry"/>
-                </mxCell>
                 <mxCell id="38" value="" style="endArrow=none;html=1;endFill=0;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1180" y="509.79999999999995" as="sourcePoint"/>
@@ -109,7 +103,7 @@
                         <mxPoint x="1280" y="589.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="42" value="setSaleQuantityLCD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="41" vertex="1" connectable="0">
+                <mxCell id="42" value="saleQuantityLCD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="41" vertex="1" connectable="0">
                     <mxGeometry x="0.6027" relative="1" as="geometry">
                         <mxPoint x="-40" y="-10" as="offset"/>
                     </mxGeometry>
